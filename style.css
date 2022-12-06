@@ -1,0 +1,22 @@
+h1 {
+    color: forestgreen;
+    font-family: "Courier New", sans-serif;
+    text-align: center;
+}
+
+img {
+    border: 10ch;
+    border-color: orange;
+}
+
+p {
+    color: rgb(20, 68, 70);
+    font-family: "Times New Roman". Verdana, sans-serif;
+}
+
+h3 {
+    text-decoration:underline;
+    text-decoration-color: forestgreen;
+    text-decoration-thickness: 5px;
+    text-transform:uppercase;
+}
